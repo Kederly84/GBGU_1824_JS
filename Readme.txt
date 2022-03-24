@@ -1,0 +1,1 @@
+Studying project on JS for Geek Brains education
