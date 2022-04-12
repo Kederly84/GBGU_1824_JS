@@ -1,0 +1,19 @@
+.basket {
+    width: 550px;
+    height: 50px;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.text {
+    width: 270px;
+    height: 50px;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    float: right;
+}
+
+
