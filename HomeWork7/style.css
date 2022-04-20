@@ -1,0 +1,12 @@
+#basketDiv {
+    height: 100px;
+    width: 300px;
+    border: 1px solid #000;
+    display: block;
+}
+#basketWrapper {
+    display: block;
+}
+#bottomWrapper {
+    display: none;
+}
